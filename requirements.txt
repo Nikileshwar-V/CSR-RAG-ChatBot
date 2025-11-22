@@ -1,0 +1,10 @@
+langchain
+chromadb
+faiss-cpu
+pdf2image
+pytesseract
+sentence-transformers
+nltk
+torch
+transformers
+pypdf
